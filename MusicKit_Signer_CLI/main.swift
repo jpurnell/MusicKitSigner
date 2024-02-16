@@ -28,5 +28,4 @@ struct Signer: ParsableCommand {
 		return
 	}
 }
-
 Signer.main()
